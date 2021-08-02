@@ -1,4 +1,3 @@
-from os import stat
 from flask import Flask, Response, request
 import json
 import data
